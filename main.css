@@ -1,0 +1,21 @@
+body{
+	/*background-image: url("ipad.jpg");*/
+}
+
+h1{
+	color:brown;
+}
+
+h2{
+		color:blue;
+}
+
+.h1class{
+	font-style: all;
+	color:blue;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
